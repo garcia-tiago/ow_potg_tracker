@@ -29,7 +29,7 @@ const HEROES = [
     { name: "Anran", role: "Damage", image: "images/damage/anran.png" },
     { name: "Genji", role: "Damage", image: "images/damage/genji.png" },
     { name: "Reaper", role: "Damage", image: "images/damage/reaper.png" },
-    { name: "Reaper", role: "Damage", image: "images/damage/shion.png" },
+    { name: "Shion", role: "Damage", image: "images/damage/shion.png" },
     { name: "Tracer", role: "Damage", image: "images/damage/tracer.png" },
     { name: "Vendetta", role: "Damage", image: "images/damage/vendetta.png" },
     { name: "Venture", role: "Damage", image: "images/damage/venture.png" },
